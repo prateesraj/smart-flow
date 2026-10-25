@@ -171,4 +171,4 @@ This is an example structure. Use the actual firmware filename in your repositor
 
 **Prateesraj K**  
 Electronics and Communication Engineering  
-Coimbatore Institute of Technology
+Coimbatore Institute of Technology.
