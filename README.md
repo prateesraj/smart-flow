@@ -165,7 +165,7 @@ This is an example structure. Use the actual firmware filename in your repositor
 - Add reliable time synchronization
 - Export usage reports as CSV
 - Add sensor-fault detection
-- Build a protective enclosure for the electronics
+- Build a protective enclosure for the electronics.
 
 ## Author
 
